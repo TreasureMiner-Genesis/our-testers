@@ -1,14 +1,16 @@
 {
-  "pipsi_": "dedf9bf7-ba1b-4fdf-b66b-433e22f60063",
-  "Yagus_Boone": "48c7b758-ef8c-464f-a77d-05246e8097f2",
-  "Syxfold__": "bd386829-0699-4da8-ac15-cf0ca57bb139",
-  "None_Arcadia": "004bd38f-8232-4fab-b61c-780bc424d5d2",
-  "ComputerPro_": "45171d35-987f-4823-accf-f8b9e8712091",
-  "DerHammerclock": "0299f98e-be89-4521-8f64-5c407c0bea00",
-  "Kaio101": "9323310a-1280-412f-88e8-abd74817611f",
-  "ympl": "b34ed25c-5188-429f-b6b0-545c04aa1e59",
-  "MaxPax67": "3089cb18-bd57-4896-aa38-0392eb286ed5",
-  "WarCar": "5ee0f46c-2397-440d-9476-d3b956b05a7d",
-  "matetarif": "8b42a22c-1f8d-48c0-8337-cb4194c88efe",
-  "MrMagicalCart": "7d0f81e8-a787-4cb5-ab74-485316ce741c"
+  "testers": [
+    "dedf9bf7-ba1b-4fdf-b66b-433e22f60063",
+    "48c7b758-ef8c-464f-a77d-05246e8097f2",
+    "bd386829-0699-4da8-ac15-cf0ca57bb139",
+    "004bd38f-8232-4fab-b61c-780bc424d5d2",
+    "45171d35-987f-4823-accf-f8b9e8712091",
+    "0299f98e-be89-4521-8f64-5c407c0bea00",
+    "9323310a-1280-412f-88e8-abd74817611f",
+    "b34ed25c-5188-429f-b6b0-545c04aa1e59",
+    "3089cb18-bd57-4896-aa38-0392eb286ed5",
+    "5ee0f46c-2397-440d-9476-d3b956b05a7d",
+    "8b42a22c-1f8d-48c0-8337-cb4194c88efe",
+    "7d0f81e8-a787-4cb5-ab74-485316ce741c"
+  ]
 }
